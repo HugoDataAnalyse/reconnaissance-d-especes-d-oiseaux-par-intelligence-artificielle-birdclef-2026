@@ -1,0 +1,2 @@
+# Reconnaissance-d-esp-ces-d-oiseaux-par-intelligence-artificielle-BirdCLEF-2026
+Participation à Kaggle BirdCLEF 2026 : classification d’espèces d’oiseaux à partir d’audio. Pipeline ML : prétraitement (segmentation, Mel-spectrogrammes, normalisation), modèles CNN/EfficientNet. Data augmentation (time/pitch shift, bruit). Validation : cross-validation, analyse d’erreurs, ensembling, pseudo-labeling. 
